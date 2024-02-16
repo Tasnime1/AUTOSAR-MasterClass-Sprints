@@ -1,7 +1,7 @@
 # :star2: AUTOSAR-MasterClass-Sprints :star2: 
 :star2: Tasks and Final Project for the Master Class.
 
-## :star2: Project Features: :star2: 
+## :star2: For over 3-months I had the opportunity to take a deep dive into:: :star2: 
 :star2: Understanding why AUTOSAR was created, what is its applications and how it evolved across years.
 
 :star2: Wired through another ECU monitoring device(UART).
