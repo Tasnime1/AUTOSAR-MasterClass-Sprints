@@ -4,8 +4,6 @@
 ## :star2: For over 3-months I had the opportunity to take a deep dive into:: :star2: 
 :star2: Understanding why AUTOSAR was created, what is its applications and how it evolved across years.
 
-:star2: Wired through another ECU monitoring device(UART).
-    
 :star2: Mastering AUTOSAR layered architecture and understanding the functionality of its different layers and stacks.
 
 :star2: Understanding the functionality of each module in AUTOSAR layered architecture.
